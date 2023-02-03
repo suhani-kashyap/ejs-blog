@@ -6,6 +6,10 @@ Easy, elegant and simple to use daily journal.
 
 Use the COMPOSE tab to add a new entry. Express server listens at port 3000. (localhost:3000)
 
+
+Visit Project at : https://daily-journal-hodx.onrender.com
+
+
 Home Page
 <img width="1440" alt="Screen Shot 2023-01-12 at 8 18 45 PM" src="https://user-images.githubusercontent.com/107238188/212214960-82856ab1-d3c6-4a7d-b3b6-7d8ae8e925d5.png">
 
